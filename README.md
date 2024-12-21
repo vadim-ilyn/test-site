@@ -12,7 +12,7 @@
 
 [sadasd](https://github.com/vadim-ilyn/test-site/blob/d1e8d0e844384ccf7e4c83473836b554c240e276/content/doc)
 
-[sadasd](content/doc.md)
+[sadasd](content/index.md)
 
 
 
