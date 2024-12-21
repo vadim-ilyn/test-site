@@ -1,7 +1,8 @@
 sadklkdslkf
 dkflksdlf
 
-![image](content/firefox_q4GnTG3lIT.png)
+![image](firefox_q4GnTG3lIT.png)
+
 
 
 
