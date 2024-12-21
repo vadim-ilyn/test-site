@@ -4,7 +4,7 @@ dkflksdlf
 ![image](firefox_q4GnTG3lIT.png)
 
 
-`
+```
 public static int Value
 {
     get => _value;
@@ -18,4 +18,6 @@ public static int Value
         ValueChange?.Invoke(_value);
     }
 }
-`
+```
+
+
